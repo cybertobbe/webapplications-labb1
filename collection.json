@@ -1,0 +1,762 @@
+{
+	"album_collection": {
+		"rock": [{
+			"id": 1,
+				"artist": "Led Zeppelin",
+				"album": "Led Zeppelin IV",
+				"year": 1971,
+				"tracklist": [
+					"Black Dog",
+					"Rock and Roll",
+					"The Battle of Evermore",
+					"Stairway to Heaven",
+					"Misty Mountain Hop",
+					"Four Sticks",
+					"Going to California",
+					"When the Levee Breaks"
+				],
+				"image": "https://upload.wikimedia.org/wikipedia/en/2/26/Led_Zeppelin_-_Led_Zeppelin_IV.jpg"
+			},
+			{
+				"id": 2,
+				"artist": "Pink Floyd",
+				"album": "Animals",
+				"year": 1977,
+				"tracklist": [
+					"Pigs on the Wing 1",
+					"Dogs",
+					"Pigs (Three Different Ones)",
+					"Sheep",
+					"Pigs on the Wing 2"
+				],
+				"image": "https://i.discogs.com/_hYJ-UiHBq0KtuIlz26o-4Ar82o9589HIFIE5XOXuVU/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MTMy/Mi0xNjkxNTYzMjc4/LTYwODAuanBlZw.jpeg",
+				"favotite": true
+			},
+			{
+				"id": 3,
+				"artist": "The Beatles",
+				"album": "Abbey Road",
+				"year": 1969,
+				"tracklist": [
+					"Come Together",
+					"Something",
+					"Maxwell's Silver Hammer",
+					"Oh! Darling",
+					"Octopus's Garden",
+					"I Want You (She's So Heavy)",
+					"Here Comes the Sun",
+					"Because",
+					"You Never Give Me Your Money",
+					"Sun King",
+					"Mean Mr. Mustard",
+					"Polythene Pam",
+					"She Came In Through the Bathroom Window",
+					"Golden Slumbers",
+					"Carry That Weight",
+					"The End",
+					"Her Majesty"
+				],
+				"image": "https://upload.wikimedia.org/wikipedia/en/4/42/Beatles_-_Abbey_Road.jpg"
+			},
+			{
+				"id": 4,
+				"artist": "Queen",
+				"album": "A Night at the Opera",
+				"year": 1975,
+				"tracklist": [
+					"Death on Two Legs (Dedicated to...)",
+					"Lazing on a Sunday Afternoon",
+					"I'm in Love with My Car",
+					"You're My Best Friend",
+					"'39",
+					"Sweet Lady",
+					"Seaside Rendezvous",
+					"The Prophet's Song",
+					"Love of My Life",
+					"Good Company",
+					"Bohemian Rhapsody",
+					"God Save the Queen"
+				],
+				"image": "https://i.discogs.com/p3_89hpuuj2UR5km7nitc1s_NXT0PM46-4RPIXWMt_E/rs:fit/g:sm/q:90/h:596/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc1NDE1/NjktMTQ1NDQ0NjYy/Ny0yMzIyLmpwZWc.jpeg",
+				"favotite": true
+			},
+			{
+				"id": 5,
+				"artist": "The Rolling Stones",
+				"album": "Sticky Fingers",
+				"year": 1971,
+				"tracklist": [
+					"Brown Sugar",
+					"Sway",
+					"Wild Horses",
+					"Can't You Hear Me Knocking",
+					"Four Sticks",
+					"You Gotta Move",
+					"Black Dog"
+				],
+				"image": "https://i.discogs.com/5jx1Ud9U9mMUuPjjgM-UnIFJfkQkHDVS1S5p7wJLjZM/rs:fit/g:sm/q:90/h:410/w:410/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyNTE5/ODctMTM1OTc2MjA4/Ny04NTc2LmpwZWc.jpeg"
+			},
+			{
+				"id": 6,
+				"artist": "The Who",
+				"album": "Who's Next",
+				"year": 1971,
+				"tracklist": [
+					"Baba O'Riley",
+					"Bargain",
+					"Love Ain't for Keeping",
+					"My Wife",
+					"The Song Is Over",
+					"Getting in Tune",
+					"Going Mobile",
+					"Behind Blue Eyes"
+				],
+				"image": "https://i.discogs.com/g97FVTu96ctj-AOw2zjmJrz3I2ZPyipQuWwUgFQ_YlI/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4NzQ2/NC0xNTg3Mzc2MjQw/LTQ5NDEuanBlZw.jpeg",
+				"favorite": true
+			},
+			{
+				"id": 7,
+				"artist": "Metallica",
+				"album": "Master of Puppets",
+				"year": 1986,
+				"tracklist": [
+					"Battery",
+					"Master of Puppets",
+					"The Thing That Should Not Be",
+					"Welcome Home (Sanitarium)",
+					"Disposable Heroes",
+					"Leper Messiah",
+					"Orion",
+					"Damage, Inc."
+				],
+				"image": "https://i.discogs.com/75jy56-VDFX-5VfvPMHxyOLs_CTsfgFrAkLxcST0oE0/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1NDk2/MzYtMTcyNDY3MTQ0/My02MDYxLmpwZWc.jpeg"
+			},
+			{
+				"id": 8,
+				"artist": "AC/DC",
+				"album": "Back in Black",
+				"year": 1980,
+				"tracklist": [
+					"Hells Bells",
+					"Shoot to Thrill",
+					"What Do You Do for Money Honey",
+					"Givin the Dog a Bone",
+					"Let Me Put My Love Into You",
+					"Back in Black",
+					"You Shook Me All Night Long",
+					"Have a Drink on Me",
+					"Shake a Leg",
+					"Rock and Roll Ain't Noise Pollution"
+				],
+				"image": "https://i.discogs.com/LUDXoTT0k0bB3MaODEh9QZ2nrX_Y602vqCqP4lseybE/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE5NDk4/NTctMTQwOTczMDg4/Mi05NDIyLmpwZWc.jpeg",
+				"favorite": true
+			},
+			{
+				"id": 9,
+				"artist": "Def Leppard",
+				"album": "High 'n' Dry",
+				"year": 1981,
+				"tracklist": [
+					"Let It Go",
+					"Another Hit and Run",
+					"High 'n' Dry (Saturday Night)",
+					"Bringin' On the Heartbreak",
+					"Switch 625",
+					"You Got Me Runnin'",
+					"Lady Strange",
+					"On Through the Night",
+					"Mirror, Mirror (Look into My Eyes)"
+				],
+				"image": "https://i.discogs.com/QLISbT4v9J22XS5zzVa8f9QvzNVdS4JhkaKvsG2bN0k/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM5MzI3/MS0xNTQ1MjE0OTE4/LTM2MzQuanBlZw.jpeg"
+			},
+			{
+				"id": 10,
+				"artist": "Guns N' Roses",
+				"album": "G N' R Lies",
+				"year": 1988,
+				"tracklist": [
+					"Reckless Life",
+					"Nice Boys",
+					"Move to the City",
+					"Mama Kin"
+				],
+				"image": "https://i.discogs.com/wpIMT03melQ6rB0jAd2pztpGFPCMxuh5Ue2jnLjfImQ/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0MDI0/OC0xNDM0NzQ1NDE4/LTQwNTIuanBlZw.jpeg"
+				
+			},
+			{
+				"id": 11,
+				"artist": "Nirvana",
+				"album": "Nevermind",
+				"year": 1991,
+				"tracklist": [
+					"Smells Like Teen Spirit",
+					"In Bloom",
+					"Come as You Are",
+					"Breed",
+					"Lithium",
+					"Polly",
+					"Territorial Pissings",
+					"Drain You",
+					"Lounge Act",
+					"Stay Away",
+					"On a Plain",
+					"Something in the Way"
+				],
+				"image": "https://i.discogs.com/XoAXkLe03Vk0Kt-oQqw7V9uW5nBzQdNvZd0zar5mOiQ/rs:fit/g:sm/q:90/h:592/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzA4/NC0xMjYzMDk1NTUz/LmpwZWc.jpeg"
+			},
+			{
+				"id": 12,
+				"artist": "Pearl Jam",
+				"album": "Ten",
+				"year": 1991,
+				"tracklist": [
+					"Once",
+					"Even Flow",
+					"Alive",
+					"Why Go",
+					"Black",
+					"Jeremy",
+					"Oceans",
+					"Porch",
+					"Garden",
+					"Deep",
+					"Release"
+				],
+				"image": "https://i.discogs.com/bAeddkpWbAQ8-YNTMUx18RC70hD69IywQ1v68_QnqoQ/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM2NzY2/NC0xNDA4OTA3MDU0/LTcyMDQuanBlZw.jpeg"
+			},
+			{
+				"id": 13,
+				"artist": "Soundgarden",
+				"album": "Superunknown",
+				"year": 1994,
+				"tracklist": [
+					"Let Me Drown",
+					"My Wave",
+					"Fell on Black Days",
+					"Mailman",
+					"Superunknown",
+					"Head Down",
+					"Black Hole Sun",
+					"Spoonman",
+					"Limo Wreck",
+					"The Day I Tried to Live",
+					"Kickstand",
+					"Fresh Tendrils",
+					"4th of July",
+					"Chains of Love"
+				],
+				"image": "https://i.discogs.com/A63fuqUmkMRBxIuwmyl2zDr4Q--50AYTug0u-iNXrDs/rs:fit/g:sm/q:90/h:599/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQwOTM0/OC0xMTUwNTY3MjY2/LmpwZWc.jpeg"
+			},
+			{
+				"id": 14,
+				"artist": "Alice in Chains",
+				"album": "Dirt",
+				"year": 1992,
+				"tracklist": [
+					"Them Bones",
+					"Dam That River",
+					"Rain When I Die",
+					"Down in a Hole",
+					"Sickman",
+					"Rooster",
+					"Junkhead",
+					"Dirt",
+					"God Smack",
+					"Iron Gland",
+					"Hate to Feel",
+					"Angry Chair",
+					"Would?",
+					"Brother",
+					"Got Me Wrong"
+				],
+				"image": "https://i.discogs.com/EMkV9WFSl2K17x99b9OlfCs4td338IEk1QLKxWAwrsc/rs:fit/g:sm/q:90/h:591/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE3NDUw/OTQtMTQ2MDgxMjAy/MS04MjU0LmpwZWc.jpeg"
+			},
+			{
+				"id": 15,
+				"artist": "R.E.M.",
+				"album": "Out Of Time",
+				"year": 1991,
+				"tracklist": [
+					"Radio Song",
+					"Losing My Religion",
+					"Low",
+					"Near Wild Heaven",
+					"Endgame",
+					"Shiny Happy People",
+					"Belong",
+					"Half a World Away",
+					"Texarkana",
+					"Country Feedback",
+					"Me in Honey"
+				],
+				"image": "https://i.discogs.com/xcn-4T6a26FID9usmJG6QQHN1mTJjG2zocrX5Ihly1E/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIwMjQ1/MjQtMTM1Mzc4Njgz/OC05MzE2LmpwZWc.jpeg"
+			}
+			
+			
+		],
+		"pop": [{
+				"id": 16,
+				"artist": "Michael Jackson",
+				"album": "Thriller",
+				"year": 1982,
+				"tracklist": [
+					"Wanna Be Startin' Somethin'",
+					"Baby Be Mine",
+					"The Girl Is Mine",
+					"Thriller",
+					"Beat It",
+					"Billie Jean",
+					"Human Nature",
+					"P.Y.T. (Pretty Young Thing)",
+					"The Lady in My Life"
+				],
+				"image": "https://upload.wikimedia.org/wikipedia/en/5/55/Michael_Jackson_-_Thriller.png"
+			},
+			{
+				"id": 17,
+				"artist": "Roxette",
+				"album": "Look Sharp!",
+				"year": 1988,
+				"tracklist": [
+					"The Look",
+					"Dressed for Success",
+					"Sleeping Single",
+					"Paint",
+					"Dance Away",
+					"Cry",
+					"Chances",
+					"Dangerous"
+				],
+				"image": "https://i.discogs.com/t2yngUG9nFvnANDmiytWfZz_OmmzKX38R4GFbw6TKpY/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQyMTQ4/NDgtMTQzMTI4NDQ3/NS03MTA4LmpwZWc.jpeg"
+			},
+			{
+				"id": 18,
+				"artist": "Pet Shop Boys",
+				"album": "Actually",
+				"year": 1987,
+				"tracklist": [
+					"One More Chance",
+					"What Have I Done to Deserve This?",
+					"Shopping",
+					"Rent",
+					"Hit Music",
+					"It Couldn't Happen Here",
+					"It's a Sin",
+					"I Want to Wake Up",
+					"Heart"
+				],
+				"image": "https://i.discogs.com/8MNHisqalU-ieJ86Lk6M5af2JC47g8w0UvrbXNalCgk/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTc5ODkz/LTE3MDEyNjQ4OTEt/Mzk2Ny5qcGVn.jpeg"	
+
+			},
+			{
+				"id": 19,
+				"artist": "Erasure",
+				"album": "The Innocents",
+				"year": 1988,
+				"tracklist": [
+					"A Little Respect",
+					"Ship of Fools",
+					"Phantom Bride",
+					"Chains of Love",
+					"Hallowed Ground",
+					"Sixty-Five Thousand",
+					"Heavenly Action",
+					"Yahoo!",
+					"Weight of the World",
+					"La Gloria"
+				],
+				"image" : "https://i.discogs.com/WAy37616rAksOF9zaxzZK1hgqw5Thn-rYe22UiVUUu4/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY1/OC0xNjU3MTYyNTA4/LTc1MjYuanBlZw.jpeg"
+			},
+			{
+				"id": 20,
+				"artist": "Erasure",
+				"album": "Wild!",
+				"year": 1989,
+				"tracklist": [
+					"Piano Song",
+					"Blue Savannah",
+					"Drama!",
+					"How Many Times?",
+					"Star",
+					"La Gloria",
+					"You Surround Me",
+					"Brother and Sister",
+					"2000 Miles",
+					"Crown of Thorns"
+				],
+				"image": "https://i.discogs.com/ShmyXx2uXoo_XVtDrLDxJA-ky-7tpKEpwVKeNgqirZM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwMjY0/OS0xMTYyODk3MzEw/LmpwZWc.jpeg",
+				"favorite": true
+			},
+			{
+				"id": 21,
+				"artist": "ABBA",
+				"album": "Super Trouper",
+				"year": 1980,
+				"tracklist": [
+					"Super Trouper",
+					"The Winner Takes It All",
+					"On and On and On",
+					"Andante, Andante",
+					"Me and I",
+					"Happy New Year",
+					"Our Last Summer",
+					"The Piper",
+					"Lay All Your Love on Me",
+					"The Way Old Friends Do"
+				],
+				"image": "https://i.discogs.com/keErAqz0wVdgkH6oq4sFogFTegjvQLYjz8mf1rq1DPM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ4MDY0/NDUtMTQwNzMwMTQz/OS04OTgxLmpwZWc.jpeg"
+
+			},
+			{
+				"id": 22,
+				"artist": "ABBA",
+				"album": "The Visitors",
+				"year": 1981,
+				"tracklist": [
+					"The Visitors",
+					"Head Over Heels",
+					"When All Is Said and Done",
+					"Soldiers",
+					"I Let the Music Speak",
+					"One of Us",
+					"Two for the Price of One",
+					"Slipping Through My Fingers",
+					"Like an Angel Passing Through My Room"
+				],
+				"image": "https://i.discogs.com/4SekY0b6MLLSGtkJ1BtZL6jFWZYcQXMMi7LT0T1nsCo/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDgx/NDYtMTMzNjM5OTMz/Ny5qcGVn.jpeg",
+				"favorite": true			
+			},
+			{
+				"id": 23,
+				"artist": "Duran Duran",
+				"album": "Rio",
+				"year": 1982,
+				"tracklist": [
+					"Rio",
+					"My Own Way",
+					"Lonely in Your Nightmare",
+					"Hungry Like the Wolf",
+					"Hold Back the Rain",
+					"New Religion",
+					"Last Chance on the Stairway",
+					"Save a Prayer",
+					"The Chauffeur"
+				],
+				"image": "https://i.discogs.com/doaMgCuxpziSLsyfsGBKg7Xr_N_yIBcrk8_IcCm3WhE/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0MDg0/My0xNjkwNjU4MjAz/LTQ3MTIuanBlZw.jpeg"
+			},
+			{
+				"id": 24,
+				"artist": "Duran Duran",
+				"album": "Seven Tiger",
+				"year": 1983,
+				"tracklist": [
+					"The Reflex",
+					"New Moon on Monday",
+					"(I'm Looking For) Cracks in the Pavement",
+					"I Take the Dice",
+					"Of Crime and Passion",
+					"Union of the Snake",
+					"Shadows on Your Side",
+					"Tiger Tiger",
+					"The Seventh Stranger"
+				],
+				"image": "https://i.discogs.com/B-fs-JjWZGKG-HeN5nswB9LVIzJh-v3DjrTT7bPXRk8/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTIxMzM3/NS0xNDMyMTQzNTE3/LTI1MjYuanBlZw.jpeg"
+			},
+			{
+				"id": 25,
+				"artist": "Dua Lipa",
+				"album": "Future Nostalgia",
+				"year": 2020,
+				"tracklist": [
+					"Future Nostalgia",
+					"Don't Start Now",
+					"Cool",
+					"Physical",
+					"Levitating",
+					"Pretty Please",
+					"Hallucinate",
+					"Love Again",
+					"Break My Heart",
+					"Good in Bed"
+				],
+				"image": "https://i.discogs.com/Q9wRgXsGgV7WGq1xsATU5GWnxT7saVE76ZhX-u0vdiA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE0OTk4/NjMyLTE1ODUzMTMy/OTgtMjU4My5wbmc.jpeg",
+				"favorite": true
+			},
+			{
+				"id": 26,
+				"artist": "Dua Lipa",
+				"album": "Dua Lipa",
+				"year": 2017,
+				"tracklist": [
+					"Genesis",
+					"Lost in Your Light",
+					"Hotter Than Hell",
+					"Be the One",
+					"IDGAF",
+					"Blow Your Mind (Mwah)",
+					"New Rules",
+					"Thinking 'Bout You",
+					"Room for 2",
+					"New Love",
+					"Bad Together",
+					"Last Dance",
+					"Want To",
+					"Running",
+					"Kiss and Make Up"
+				],
+				"image": "https://i.discogs.com/XCD01pZdjgSkHERl8M9gsOH5RwPPfh0OjNbDcwlC2Ik/rs:fit/g:sm/q:90/h:500/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEwNDQx/MTQxLTE0OTc0OTg0/ODgtNTc3NC5qcGVn.jpeg"
+			},
+			{
+				"id": 27,
+				"artist": "Lady Gaga",
+				"album": "Chromatica",
+				"year": 2020,
+				"tracklist": [
+					"Chromatica I",
+					"Alice",
+					"Stupid Love",
+					"Rain on Me",
+					"Free",
+					"Fun Tonight",
+					"Chromatica II",
+					"911",
+					"Plastic Doll",
+					"Sour Candy",
+					"Enigma",
+					"Replay",
+					"Chromatica III",
+					"Sine from Above",
+					"1000 Doves",
+					"Babylon",
+					"Love me right"
+
+				],
+				"image": "https://i.discogs.com/bECXKVNey-xY-DFwyXbjsVjG_TazecwADiVZLys8XC8/rs:fit/g:sm/q:90/h:576/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTE1Mzkw/MDM1LTE1OTA3NTc5/OTUtNzc0Ny5qcGVn.jpeg",
+				"favorite": true
+			},
+			{
+				"id": 28,
+				"artist": "Lady Gaga",
+				"album": "Born This Way",
+				"year": 2011,
+				"tracklist": [
+					"Marry the Night",
+					"Born This Way",
+					"Government Hooker",
+					"Judas",
+					"Americano",
+					"Hair",
+					"Scheiße",
+					"Bloody Mary",
+					"Black Jesus + Amen Fashion",
+					"Bad Kids",
+					"Fashion of His Love",
+					"Highway Unicorn (Road to Love)",
+					"Heavy Metal Lover",
+					"Electric Chapel",
+					"You and I",
+					"The Edge of Glory"
+				],
+				"image": "https://i.discogs.com/pot8C6a18dxAij12ctr8QGfIKoVSOSrcPvFgfCb141w/rs:fit/g:sm/q:90/h:586/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxMDgw/NzgtMTMzMDUzMTA0/MC5qcGVn.jpeg"
+			}
+
+		],
+
+
+		"jazz": [{
+				"id": 29,
+				"artist": "Miles Davis",
+				"album": "Kind of Blue",
+				"year": 1959,
+				"tracklist": [
+					"So What",
+					"Freddie Freeloader",
+					"Blue in Green",
+					"All Blues",
+					"Flamenco Sketches"
+				],
+				"image": "https://i.discogs.com/kYb3OYNGyvJ0OGxVNhSZBJkTbdr-Z6t_kt2jHCR8d0c/rs:fit/g:sm/q:90/h:600/w:596/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYyNzYx/ODMtMTY0NDEwMDc1/OS02NDU3LmpwZWc.jpeg",
+				"favorite": true
+			},
+			{
+				"id": 30,
+				"artist": "John Coltrane",
+				"album": "A Love Supreme",
+				"year": 1965,
+				"tracklist": [
+					"Acknowledgement",
+					"Resolution",
+					"Pursuance",
+					"Psalm"
+				],
+				"image": "https://i.discogs.com/fGpBfJZOBOXcombzBDMfneERKusKwmEO03qCaTid4sY/rs:fit/g:sm/q:90/h:598/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTY4OTA3/NDctMTQyODg4ODc4/NC00ODEzLmpwZWc.jpeg"
+			},
+			{
+				"id": 31,
+				"artist": "Duke Ellington",
+				"album": "Ellington at Newport",
+				"year": 1956,
+				"tracklist": [
+					"Festival Junction",
+					"Blues to Be There",
+					"Newport Up",
+					"Sophisticated Lady",
+					"Day In, Day Out",
+					"Diminuendo and Crescendo in Blue"
+				],
+				"image": "https://i.discogs.com/WkYgDhYki5qDM0CU95E36KW0hsK0orQaSspQ8OBHaEU/rs:fit/g:sm/q:90/h:400/w:400/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTI5Mzc0/MjQtMTMwODE1MTk3/MS5qcGVn.jpeg"
+			},
+			{
+				"id": 32,
+				"artist": "Louis Armstrong",
+				"album": "Plays W.C. Handy",
+				"year": 1954,
+				"tracklist": [
+					"St. Louis Blues",
+					"Yellow Dog Blues",
+					"Loveless Love",
+					"Aunt Hagar's Blues",
+					"Long Gone (From Bowlin' Green)",
+					"The Memphis Blues",
+					"Beale Street Blues",
+					"Ole Miss Blues",
+					"Chantez Les Bas",
+					"Hesitating Blues",
+					"Atlanta Blues (Make Me One Pallet on Your Floor)",
+					"George Avakian's Interview With W.C. Handy"
+				],
+				"image": "https://i.discogs.com/TUig-7Vt70nLEfNuRv5ublJbaCtfoobmhl9ybo7fFuM/rs:fit/g:sm/q:90/h:600/w:599/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzk5/MTYtMTQzOTA5NTg2/Ny04ODIzLmpwZWc.jpeg"
+			},
+			{
+				"id": 33,
+				"artist": "Dave Brubeck",
+				"album": "Time Out",
+				"year": 1959,
+				"tracklist": [
+					"Blue Rondo à la Turk",
+					"Strange Meadow Lark",
+					"Take Five",
+					"Three to Get Ready",
+					"Kathy's Waltz",
+					"Everybody's Jumpin'",
+					"Pick Up Sticks"
+				],
+				"image": "https://i.discogs.com/tz4tsa5_pTztKx_mWvRvKp7jZ2YyztvF69PTEmVFlLg/rs:fit/g:sm/q:90/h:600/w:591/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMzg0/NTAyLTE1NjQ4NDQ1/MTMtMTEwNi5qcGVn.jpeg"
+			},
+			{
+				"id": 34,
+				"artist": "Tony Bennett",
+				"album": "Jazz",
+				"year": 1987,
+				"tracklist": [
+					"I Can't Believe That You're In Love With Me",
+					"Don't Get Around Much Anymore",
+					"Stella By Starlight",
+					"On Green Dolphin Street",
+					"Let's Face The Music And Dance",
+					"Solitude"
+				],			
+				"image": "https://i.discogs.com/HFu97gtND4wspdw8hpUwimXnNtdlppI1eNrJ5nKggE8/rs:fit/g:sm/q:90/h:599/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTUzODI2/MjgtMTU1NjM5NDc4/My01OTQ5LmpwZWc.jpeg"
+			},
+			{
+				"id": 35,
+				"artist": "Ella Fitzgerald",
+				"album": "Cole Porter",
+				"year": 1956,
+				"tracklist": [
+					"All Through the Night",
+					"Anything Goes",
+					"Miss Otis Regrets",
+					"Too Darn Hot",
+					"In the Still of the Night",
+					"I Get a Kick Out of You",
+					"Do I Love You?",
+					"I'm Always True to You in My Fashion",
+					"Let's Do It (Let's Fall in Love)",
+					"Just One of Those Things",
+					"Ev'ry Time We Say Goodbye",
+					"All of You"
+				],
+				"image": "https://i.discogs.com/ptoYcHnWfMoZofltUx9P-sITcBaJK7eOtkpfkGgv3fs/rs:fit/g:sm/q:90/h:600/w:597/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzc4/NDAtMTU1Mjc0MzY0/Ni04NTkyLmpwZWc.jpeg"
+			},
+			{
+				"id": 36,
+				"artist": "Billie Holiday",
+				"album": "Lady in Satin",
+				"year": 1958,
+				"tracklist": [
+					"I'm a Fool to Want You",
+					"For Heaven's Sake",
+					"You Don't Know What Love Is",
+					"I Get Along Without You Very Well",
+					"For All We Know",
+					"Violets for Your Furs",
+					"You've Changed",
+					"It's Easy to Remember",
+					"But Beautiful",
+					"Glad to Be Unhappy",
+					"I'll Be Around"
+				],
+				"image": "https://i.discogs.com/wMd-m3z-m70TQ61SDLCPfzDqVvkU0tLaBA3C00bXjbU/rs:fit/g:sm/q:90/h:600/w:598/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzNzUw/NjQtMTI3NDgzNTAw/OC5qcGVn.jpeg",
+				"favorite": true
+			},
+			{
+				"id": 37,
+				"artist": "Nina Simone",
+				"album": "Pastel Blues",
+				"year": 1965,
+				"tracklist": [
+					"Be My Husband",
+					"Nobody Knows You When You're Down and Out",
+					"End of the Line",
+					"Trouble in Mind",
+					"Tell Me More and More and Then Some",
+					"Chilly Winds Don't Blow",
+					"Ain't No Use",
+					"Strange Fruit",
+					"Sinnerman",
+					"Mississippi Goddam",
+					"I Put a Spell on You",
+					"Tomorrow Is My Turn",
+					"Ne Me Quitte Pas",
+					"Black Is the Color of My True Love's Hair",
+					"Wild Is the Wind"
+				],
+				"image": "https://i.discogs.com/6EZ3y5uky_REV--2r-9gCVc_Kze1ptwsHS8gKWEpr-Q/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEzMzc0/NzExLTE1NTMwMDk4/MzctNjU4MC5qcGVn.jpeg"
+			},
+			{
+				"id": 38,
+				"artist": "Sarah Vaughan",
+				"album": "Sarah Vaughan",
+				"year": 1954,
+				"tracklist": [
+					"Lullaby of Birdland",
+					"April in Paris",
+					"He's My Guy",
+					"Jim",
+					"You're Not the Kind",
+					"Embraceable You",
+					"I'm Glad There Is You",
+					"You Can Take My Word for It Baby",
+					"Lullaby of Birdland",
+					"Signing Off"
+				],
+				"image": "https://i.discogs.com/gOZwya3EA8ekEP2pOvfR8NHqDjDlf6IrGv2icGS0phA/rs:fit/g:sm/q:90/h:479/w:498/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0Mzcx/ODktMTM2NDg0MjE1/OC04Mzk2LmpwZWc.jpeg"
+			}
+		]
+	}	
+}        
+
+    
+
+
+
+        
+    
+                    
+          
+          
+    
+        
+
+    

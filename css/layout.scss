@@ -1,0 +1,180 @@
+@import 'variables';
+@import 'main';
+@import 'albumDetails';
+
+.container {
+    main {
+
+        #album-collection {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 10px;
+            justify-items: center;
+            font-size: smaller;
+        }
+
+    }
+
+    h1 {
+        display: grid;
+        grid-column: 1 / -1;
+        justify-content: center;
+        font: 2em 'Roboto', sans-serif;
+    }
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    margin: 0;
+
+    &:visited {
+        color: black;
+    }
+}
+
+
+aside {
+    width: 100%;
+    background-color: $background-color-light;
+    margin: 0 auto;
+    font-family: $font-family;
+
+
+    ul {
+        list-style-type: none;
+        padding: 20px;
+        border-radius: $border-radius;
+    }
+
+    li {
+        display: block;
+        list-style-type: none;
+        border-radius: $border-radius;
+        border: $border-color solid 1px;
+        padding: 5px 0;
+        text-align: center;
+
+
+    }
+}
+
+header {
+    width: 100%;
+    background-color: $background-color-darker;
+    color: $text-color-light;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    background-color: $background-color-darker;
+    color: $text-color-light;
+    text-align: center;
+    padding: 10px;
+    margin-top: auto;
+
+    font: 1em $font-family;
+}
+
+//Desktop view
+@media (min-width: 480px) {
+    body {
+        display: flex;
+        flex-direction: column;
+        min-height: 100vh;
+        margin: 0;
+    }
+
+    header {
+
+        img {
+            display: block;
+            margin: auto 0;
+        }
+
+        h1 {
+            display: block;
+            margin: 10px auto 0;
+            text-align: center;
+        }
+    }
+
+
+    //Main contaier for the page
+    .container {
+        display: flex;
+        flex: 1;
+
+
+        main {
+
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            width: 80%;
+            padding: 10px;
+            background-color: $background-color-white;
+
+            h1 {
+                margin-bottom: 20px;
+                align-self: flex-start;
+            }
+
+            #top-list,
+            #album-collection {
+                display: flex;
+                flex-flow: row;
+                flex-wrap: wrap;
+                justify-content: flex-start;
+                gap: 10px;
+                justify-items: center;
+                font-size: smaller;
+
+                .album {
+                    flex: 1 1 200px;
+                    max-width: 200px;
+                    padding: 10px;
+                    box-sizing: border-box;
+                    text-align: center;
+
+                    p {
+                        font: 1em $font-family;
+                    }                }
+
+            }
+
+
+
+
+        }
+    }
+
+    aside {
+        width: 20%;
+        padding: 10px;
+        background-color: $background-color-light;
+
+        ul {
+            list-style-type: none;
+            padding: 20px;
+            border-radius: 5px;
+        }
+
+        li {
+            &:hover {
+                background-color: $hover-background-color;
+                color: black;
+                border-radius: $border-radius;
+            }
+        }
+    }
+
+}
