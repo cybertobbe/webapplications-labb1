@@ -9,7 +9,7 @@ document.addEventListener('DOMContentLoaded', () => {
 function validateAndSave() {
     "use strict";
     let address = document.getElementById("email").value;
-    const emailRegex = /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
+    const emailRegex = /^[a-zA-Z0-9._+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/;
     if (address.length < 6) {
         alert("Address is too short");
     }
